@@ -30,6 +30,7 @@ Now upload the script files into the clone directory.
 
 Using SSH cd to /var/www/yourdomain.com, delete your public_html directory and replace it with a shortcut leading to clone/public.
 ```
+cd /var/www/yourdomain.com
 rm -rf public_html
 ln -s clone/public/ public_html
 ```
