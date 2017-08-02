@@ -37,3 +37,6 @@ ln -s clone/public/ public_html
 
 # If you use the script buy me a beer or a spliff!
 Bitcoin: 1HXARUmfLSwyqyMC2yTAktwQh61SVFCQaN
+
+# Need help?
+Add me on Skype! Username: AmbitionPHP
