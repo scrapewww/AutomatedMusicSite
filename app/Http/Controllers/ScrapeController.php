@@ -89,6 +89,10 @@ class ScrapeController extends Controller
         {
             echo ($page-1) . ' pages remaining.<br>';
         }
+        else
+        {
+            echo '<h2 style="text-align:center;">finished</h2>';
+        }
         echo $c . ' mixtapes imported from this page.';
         if( $page > 1 )
         {
@@ -166,6 +170,10 @@ class ScrapeController extends Controller
         if( $page > 1 )
         {
             echo ($page-1) . ' pages remaining.<br>';
+        }
+        else
+        {
+            echo '<h2 style="text-align:center;">finished</h2>';
         }
         echo $c . ' albums imported from this page.';
         if( $page > 1 )
@@ -245,6 +253,10 @@ class ScrapeController extends Controller
         {
             echo ($page-1) . ' pages remaining.<br>';
         }
+        else
+        {
+            echo '<h2 style="text-align:center;">finished</h2>';
+        }
         echo $c . ' tracks imported from this page.';
         if( $page > 1 )
         {
@@ -320,6 +332,10 @@ class ScrapeController extends Controller
         if( $page > 1 )
         {
             echo ($page-1) . ' pages remaining.<br>';
+        }
+        else
+        {
+            echo '<h2 style="text-align:center;">finished</h2>';
         }
         echo $c . ' videos imported from  this page.';
         if( $page > 1 )
