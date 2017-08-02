@@ -72,6 +72,7 @@ class IndexController extends Controller
 
     private function step2(Request $request)
     {
+		\Artisan::call('key:generate');
         \Artisan::call('migrate');
         $p = new \App\Page;
         $p->title = 'About Us';
