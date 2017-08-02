@@ -14,8 +14,10 @@ To install upload files to server, you may need to change your DocumentRoot to r
  - Tokenizer PHP Extension
  - XML PHP Extension
  - Fileinfo Extension
-
-Make storage directory and all directories within it writable (777).
+ 
+ # Installation
+ - Make bootstrap/cache directory and all it's contents writable (777).
+ - Make storage directory and all directories within it writable (777).
 
 Visit yoursite.com and you'll be prompted with an install wizard.
 
