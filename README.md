@@ -6,6 +6,15 @@ Exact clone of http://www.leakedearly.com 100% automated.
 # Laravel 5.4 based automated music download platform.
 To install upload files to server, you may need to change your DocumentRoot to reflect the public directory provided in script.
 
+# Requirements
+ - PHP >= 5.6.4
+ - OpenSSL PHP Extension
+ - PDO PHP Extension
+ - Mbstring PHP Extension
+ - Tokenizer PHP Extension
+ - XML PHP Extension
+ - Fileinfo Extension
+
 Make storage directory and all directories within it writable (777).
 
 Visit yoursite.com and you'll be prompted with an install wizard.
@@ -40,3 +49,6 @@ Bitcoin: 1HXARUmfLSwyqyMC2yTAktwQh61SVFCQaN
 
 # Need help?
 Add me on Skype! Username: AmbitionPHP
+
+# F help, install it for me!
+$20 via bitcoin and I'll install it for you. Must have vps, dedicated, aws, etc that meets the above requirements.
