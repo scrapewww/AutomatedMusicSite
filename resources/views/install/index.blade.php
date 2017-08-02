@@ -57,11 +57,11 @@
 
                 <div class="form-group">
                     <label for="DB_HOST">DB Host</label>
-                    <input type="text" class="form-control" name="DB_HOST" id="DB_HOST" placeholder="localhost" required>
+                    <input type="text" class="form-control" name="DB_HOST" id="DB_HOST" placeholder="localhost" value="localhost" required>
                 </div>
                 <div class="form-group">
                     <label for="DB_PORT">DB Port</label>
-                    <input type="text" class="form-control" name="DB_PORT" id="DB_PORT" placeholder="3306" required>
+                    <input type="text" class="form-control" name="DB_PORT" id="DB_PORT" placeholder="3306" value="3306" required>
                 </div>
                 <div class="form-group">
                     <label for="DB_USERNAME">DB Username</label>
