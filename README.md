@@ -19,3 +19,17 @@ thanks to:
  - Laravel Page Visit Counter (https://github.com/cyrildewit/laravel-page-visits-counter)
  - laravel-sitemap package (https://github.com/RoumenDamianoff/laravel-sitemap)
  - php-curl (https://github.com/anlutro/php-curl)
+
+# How TF do I install this on cPanel?
+Create a directory named "clone" at the same level as public_html. i.e.
+ - domain.com
+   - clone
+   - public_html
+   
+Now upload the script files into the clone directory.
+
+Using SSH cd to /var/www/yourdomain.com, delete your public_html directory and replace it with a shortcut leading to clone/public.
+```
+rm -rf public_html
+ln -s clone/public/ public_html
+```
