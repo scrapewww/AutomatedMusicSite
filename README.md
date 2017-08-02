@@ -52,3 +52,13 @@ Add me on Skype! Username: AmbitionPHP
 
 # F help, install it for me!
 $20 via bitcoin and I'll install it for you. Must have vps, dedicated, aws, etc that meets the above requirements.
+
+# Install Wizard Preview
+Step 1
+![Install Wizard Step 1](http://i.imgur.com/PXtEFaR.png)
+
+Step 2
+![Install Wizard Step 2](http://i.imgur.com/rV8klN9.png)
+
+Wizard Finished
+![Platform Homepage](http://i.imgur.com/9eQCHar.jpg)
