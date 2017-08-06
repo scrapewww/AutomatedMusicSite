@@ -1,7 +1,7 @@
 # Automated Music Site
 Automated music download platform using Laravel 5.4.
 
-Exact clone of http://www.leakedearly.com 100% automated.
+Exact clone of [http://www.leakedearly.com](http://www.leakedearly.com "Hip Hop MP3 Download") 100% automated.
 
 # Laravel 5.4 based automated music download platform.
 To install upload files to server, you may need to change your DocumentRoot to reflect the public directory provided in script.
@@ -50,7 +50,7 @@ ln -s clone/public/ public_html
 Bitcoin: 1HXARUmfLSwyqyMC2yTAktwQh61SVFCQaN
 
 # Need help?
-Add me on Skype! Username: AmbitionPHP
+Add me on Skype! Username: AmbitionPHP or on BHW username [selfpaidinc](https://www.blackhatworld.com/members/selfpaidinc.786559/)
 
 # F help, install it for me!
 $20 via bitcoin and I'll install it for you. Must have vps, dedicated, aws, etc that meets the above requirements.
