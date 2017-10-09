@@ -1,4 +1,4 @@
-[https://mp3foo.com](Mp3 Search Engine "Mp3 Search Engine")
+[https://mp3foo.com](https://mp3foo.com "Mp3 Search Engine")
 
 # Automated Music Site
 Automated music download platform using Laravel 5.4.
